@@ -1,0 +1,32 @@
+﻿h1	{text-align:center; font-size:52px; color:#3DFEA6;}
+
+#inicio {font-size:30px;color:#2186E4;}
+
+h2	{text-align:center;font-size:30px;color:#E3A62D;}
+
+table,th,td {border:solid;margin-left:auto; margin-right:auto; cellspacing:1;cellpadding:2px;
+		color:blue;clear:left;text-align:center;font-size:35px;background-color:#FCFFA3;}
+
+.cabeza {display:block; margin:auto; width:500px; height:400px;}
+
+.a1 {display:block; margin:auto; width:400px;height:300px;}
+
+.bio {font-size:25px; color:#2E82E7; text-align:center}
+
+.ilist {font-size:30px; color:#18BFFE;}
+
+.a0 {font-size:25px;color:#4FF7CE;}
+
+.prim {text-align:left;}
+
+.secun {padding-left:200px;font-size:25px;color:#648AEC;} 
+
+#regla {padding-left:200px;font-size:25px;color:#8BB4E4; style:I;}
+
+.zelda {font-size:20px;}
+
+#web {display:block; margin:auto; width:400px;height:300px;}
+
+.op {font-size:25px; color:#10BD32; text-align:center}
+
+.volver {display:block; float:right; font-size:30px; color:#2F59F3}
